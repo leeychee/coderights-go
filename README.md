@@ -5,7 +5,7 @@ Coder Rights Manifesto
 
 We need `955`, in other words `work life balance`, rather than `996.ICU`.
 
-We should *fight* for this, like workers 200+ years ago.
+We should **fight** for this, just like workers have done 200+ years ago.
 
 # Usage
 
@@ -26,5 +26,5 @@ func main() {
 ```
 
 # TODO
-'
+
 It's just a very simple prototype. Wish your mind.
